@@ -1,4 +1,4 @@
-# Engineering Challenge - Twitter
+# Software Craftsmanship - Twitter
 
 ## Introduction
 

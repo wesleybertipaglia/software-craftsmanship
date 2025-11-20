@@ -1,4 +1,4 @@
-# Engineering Challenge - Redis
+# Software Craftsmanship - Redis
 
 ## Introduction
 

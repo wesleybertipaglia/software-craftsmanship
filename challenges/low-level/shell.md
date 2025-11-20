@@ -1,4 +1,4 @@
-# Engineering Challenge - Shell
+# Software Craftsmanship - Shell
 
 ## Introduction
 

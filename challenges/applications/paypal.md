@@ -1,4 +1,4 @@
-# Engineering Challenge - PayPal
+# Software Craftsmanship - PayPal
 
 ## Introduction
 

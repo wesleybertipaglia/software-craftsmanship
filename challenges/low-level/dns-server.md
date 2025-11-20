@@ -1,4 +1,4 @@
-# Engineering Challenge - DNS Server
+# Software Craftsmanship - DNS Server
 
 ## Introduction
 

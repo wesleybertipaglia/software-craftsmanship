@@ -1,4 +1,4 @@
-# Engineering Challenge - BitTorrent
+# Software Craftsmanship - BitTorrent
 
 ## Introduction
 

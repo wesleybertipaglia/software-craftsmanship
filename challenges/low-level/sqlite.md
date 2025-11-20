@@ -1,4 +1,4 @@
-# Engineering Challenge - SQLite
+# Software Craftsmanship - SQLite
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Engineering Challenge - Name
+# Software Craftsmanship - Name
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Engineering Challenge - Airbnb
+# Software Craftsmanship - Airbnb
 
 ## Introduction
 

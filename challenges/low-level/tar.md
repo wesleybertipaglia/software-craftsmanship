@@ -1,4 +1,4 @@
-# Engineering Challenge - Tar
+# Software Craftsmanship - Tar
 
 ## Introduction
 

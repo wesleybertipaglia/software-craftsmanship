@@ -1,4 +1,4 @@
-# Engineering Challenge - Git
+# Software Craftsmanship - Git
 
 ## Introduction
 

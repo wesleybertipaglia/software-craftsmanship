@@ -1,4 +1,4 @@
-# Engineering Challenge - Github
+# Software Craftsmanship - Github
 
 ## Introduction
 

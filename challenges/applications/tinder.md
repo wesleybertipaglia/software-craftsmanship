@@ -1,4 +1,4 @@
-# Engineering Challenge - Tinder
+# Software Craftsmanship - Tinder
 
 ## Introduction
 

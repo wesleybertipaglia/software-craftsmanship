@@ -1,4 +1,4 @@
-# Engineering Challenge - Discord
+# Software Craftsmanship - Discord
 
 ## Introduction
 

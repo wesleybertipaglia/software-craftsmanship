@@ -1,4 +1,4 @@
-# Engineering Challenge - Grep
+# Software Craftsmanship - Grep
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Engineering Challenge - HTTP Server
+# Software Craftsmanship - HTTP Server
 
 ## Introduction
 

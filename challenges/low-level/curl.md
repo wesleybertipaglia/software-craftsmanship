@@ -1,4 +1,4 @@
-# Engineering Challenge - Curl
+# Software Craftsmanship - Curl
 
 ## Introduction
 

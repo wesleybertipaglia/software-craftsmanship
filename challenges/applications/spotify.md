@@ -1,4 +1,4 @@
-# Engineering Challenge - Spotify
+# Software Craftsmanship - Spotify
 
 ## Introduction
 

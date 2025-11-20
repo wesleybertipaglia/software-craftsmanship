@@ -1,4 +1,4 @@
-# Engineering Challenge - Amazon
+# Software Craftsmanship - Amazon
 
 ## Introduction
 
